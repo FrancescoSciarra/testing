@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:iso:std:iso:20022:tech:xsd:DRAFT11auth.030.001.01 src/DRAFT11auth.030.001.01_ESMAUG_DATATR_1.4.0.xsd http://www.w3.org/2001/XMLSchema http://www.w3.org/2001/XMLSchema ">
+  <DerivsTradRpt>
+    <RptHdr>
+      <MsgPgntn>
+        <PgNb>PgNb</PgNb>
+        <LastPgInd>true</LastPgInd>
+      </MsgPgntn>
+      <NbRcrds>0.0</NbRcrds>
+    </RptHdr>
+    <TradData>
+      <DataSetActn>NOTX</DataSetActn>
+    </TradData>
+  </DerivsTradRpt>
+</Document>
